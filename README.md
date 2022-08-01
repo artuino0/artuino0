@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @artuino0
-- I'm a fullstack developer speciliced in JavaScript, using node, vue, angular, react, etc
-- 👀 I’m interested in ...
-- Python development an data science
-- 🌱 I’m currently learning ...
-- Cybersecurity and pentesting
+### Presentacion
 
-<!---
-artuino0/artuino0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hola,  Soy Jose Arturo Muñoz Castorena "@artuino0" 
+- Soy **Desarrollador Full stack** especializado en JavaScript usando como pricipales herramientas los frameworks front end Angular, VueJS, y React y en back end haciendo uso de NodeJS y ExpressJS para la creacion de APIs.
+
+👀 Estoy interesado en...
+
+- Aprendizaje autodidacta.
+- Gaming (CoD Warzone, Fortnite, FarCry etc.).
+- Soporte en redes informáticas.
+- Ethical Hacking con ParrotOS.
+- Ensambles de computadoras.
+- IoT con arduino y rapsberry.
+
+# Artuino0.md
+
+![](https://myawesomeportafolio.web.app/src/4x/logo-180x180.png)
+
+
+**Table of Contents**
+
+[TOCM]
