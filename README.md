@@ -1,7 +1,7 @@
 ### Presentacion
 
 👋 Hola,  Soy Jose Arturo Muñoz Castorena "@artuino0" 
-- Soy **Desarrollador Full stack** especializado en JavaScript usando como pricipales herramientas los frameworks front end Angular, VueJS, y React y en back end haciendo uso de NodeJS y ExpressJS para la creacion de APIs.
+- Soy **Desarrollador Full stack** especializado en JavaScript usando como principales herramientas los frameworks front end Angular, VueJS, y React y en back end haciendo uso de NodeJS y ExpressJS para la creacion de APIs.
 
 👀 Estoy interesado en...
 
